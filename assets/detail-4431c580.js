@@ -1,0 +1,1 @@
+import{d as t,u as o,o as s,f as a,v as n,i as r}from"./index-6dfb2664.js";const d=t({__name:"detail",setup(u){const e=o().query.id;return(c,l)=>(s(),a("div",null," user_detail + "+n(r(e)),1))}});export{d as default};
