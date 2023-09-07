@@ -1,0 +1,1 @@
+import{d as t,u as o,o as s,f as a,x as n,i as r}from"./index-5fad0ac1.js";const _=t({__name:"detail",setup(u){const e=o().query.id;return(c,d)=>(s(),a("div",null," goods_detail + "+n(r(e)),1))}});export{_ as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index.vue_vue_type_script_setup_true_name_ChangeLayoutMode_lang-137b174d.js";import{d as o,o as a,f as t,l as n,h as r}from"./index-5fad0ac1.js";const p=o({__name:"index",setup(s){return(c,_)=>(a(),t("div",null,[n(" demo2 "),r(e)]))}});export{p as default};

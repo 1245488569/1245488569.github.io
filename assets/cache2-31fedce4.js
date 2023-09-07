@@ -1,1 +1,0 @@
-import{d as n,r as t,e as s,o as r,f as u,l as c,h as p,i as d,U as m}from"./index-c5baf240.js";const _=n({name:"cache2"}),h=n({..._,setup(f){const e=t("");return(i,o)=>{const a=s("el-input");return r(),u("div",null,[c(" cache2 "),p(a,{modelValue:d(e),"onUpdate:modelValue":o[0]||(o[0]=l=>m(e)?e.value=l:null),placeholder:"请输入内容"},null,8,["modelValue"])])}}});export{h as default};
