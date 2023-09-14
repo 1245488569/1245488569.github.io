@@ -1,1 +1,0 @@
-import{Y as t,u as n,A as e}from"./index-7f544649.js";function a(){return{generateTitle:function(n){if(""===n)return"";const e=t();return e.te(n)?e.t(n):n},watchSwitchLang:function(...t){const a=n();e((()=>a.getLanguage),(()=>{t.forEach((t=>t(a.getLanguage)))}))}}}export{a as u};

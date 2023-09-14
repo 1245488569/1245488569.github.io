@@ -1,1 +1,0 @@
-import{_ as e}from"./index.vuevuetypescriptsetuptruenameChangeLayoutModelang-949a05dc.js";import{d as a,o as s,g as t,i as n,m as o}from"./index-7f544649.js";const d=a({__name:"index",setup:a=>(a,d)=>(s(),t("div",null,[n(" demo2 "),o(e)]))});export{d as default};
